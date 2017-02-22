@@ -1,6 +1,4 @@
-// Read data (CERN staff) from an ascii file and create a root file wiith a Tree.
-// see also a variant in staff.C
-// Author: Rene Brun
+
    
 TFile *Tex2Tree10(Int_t get=0, Int_t print=1) {
 /*
